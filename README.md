@@ -8,11 +8,11 @@ It supports adding people, linking parents, linking spouses, and generating a hi
 ## 🚀 Features
 
 - Create and manage people
+- ability to search a person by name age or job and can be extended to search on anything 
 - Link father/mother relationships
 - Link spouses (two-way connection)
 - Generate a full family tree structure (`/api/tree`)
 - Simple, clean JSON tree response
-- CORS-enabled for frontend integration
 - Extensible architecture to support more features such as:
   - Multiple families
   - Editing and deleting members
